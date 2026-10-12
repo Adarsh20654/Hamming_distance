@@ -1,3 +1,6 @@
+`include "./adder.v"
+`include "./comparator.v"
+
 module hamming_distance8 (
   input wire[7:0] A,
   input wire[7:0] B,

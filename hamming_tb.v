@@ -1,7 +1,4 @@
 `include "./hamming.v"
-`include "./adder.v"
-`include "./comparator.v"
-
 `timescale 1ns / 1ps
 
 module tb_hamming_distance8 ();
